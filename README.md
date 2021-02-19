@@ -1,2 +1,2 @@
 # hello-world
-just lear swiwming 
+solo estoy aprendiendo a nadar
